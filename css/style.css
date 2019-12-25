@@ -1,0 +1,240 @@
+@font-face
+{
+    font-family: Taraxacum; 
+    src: url(../fonts/Taraxacum.otf);
+}
+
+@font-face
+{
+    font-family: GoodDog; 
+    src: url(../fonts/GoodDog.ttf);
+}
+
+@font-face
+{
+    font-family: ThinSkinned; 
+    src: url(../fonts/ThinSkinned.otf);
+}
+
+@font-face
+{
+    font-family: ManoNegra; 
+    src: url(../fonts/ManoNegra.otf);
+}
+@font-face
+{
+    font-family: CARboned; 
+    src: url(../fonts/CARboned.otf);
+}
+
+#test{
+	height: 20px;
+	width: 20px;
+	background:green;
+}
+
+
+
+.firstBlock
+{
+	text-align: center;
+	height:250px;
+	
+}
+
+.secondBlock
+{
+	text-align: center;
+}
+
+.pic
+{
+	height: 300px;
+	
+}
+
+.imag
+{
+	text-align: center;
+	
+}
+
+.logoname
+{
+	text-align: right;
+	margin-right:300px;
+}
+
+.emptyblock
+{
+	height: 170px;
+}
+
+
+.inForm
+{
+	text-align: center;
+	
+}
+
+.choose
+{
+	
+	text-align: center;
+}
+
+.selectColor
+{width: 127px;
+    margin-top: 15px;}
+
+
+.selectSize
+{width: 113px;
+    margin-top: 15px;}
+
+.selectRotate
+{width: 109px;
+    margin-top: 15px;}
+
+.selectColorBack
+{width: 146px;
+    margin-top: 15px;}
+
+.selectBackRad
+{
+    width: 100px;
+        margin-top: 15px;
+}
+
+.select1
+{
+	width: 167px;
+}
+
+.cong
+{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top: 20px;
+	width: 650px;
+    color:  #6E6E6E;
+}
+
+
+.select
+{
+	align: center;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top: 20px;
+	width: 250px;
+}
+
+.select2
+{
+	align: center;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top: 20px;
+	width: 257px;
+}
+
+
+.select3
+{
+	align: center;
+	margin-left: auto;
+	margin-right:auto;
+	margin-top: 20px;
+	width: 235px;
+}
+
+
+
+.back
+{
+    position: absolute;
+}
+
+
+
+
+.allEdit
+{
+   text-align: center;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 290px;
+}
+
+
+.choose_block
+{
+    text-align: center;
+    width: 600px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FBEFFB;
+    border-radius: 30px;
+}
+
+
+.choose_text
+{
+    color: #6E6E6E;
+    padding-top: 20px;
+    margin-top: 0px;
+    font-size: 30px;
+}
+
+
+
+
+#choose_random
+{
+    margin-bottom: 22px;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    border: solid 2px #6E6E6E;
+    margin-top: 40px;
+    margin-right: 200px;
+}
+
+#choose_shablons
+{
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    border: solid 2px #6E6E6E;
+}
+
+.editClassF
+{
+    margin-top: -45px;
+}
+
+
+
+.doneFont
+{
+    margin-top: -70px;
+}
+
+.doneAll
+{
+     text-align: center;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    height: 290px;
+}
+
+.tab
+{    width: fit-content;}
